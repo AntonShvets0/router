@@ -3,7 +3,7 @@
 
 class ControllerTest
 {
-    public function actionWorld()
+    public function ActionWorld()
     {
         return 'Hello World';
     }
